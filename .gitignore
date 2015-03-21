@@ -16,3 +16,4 @@ test/actual_output
 test/tmp
 test/version_tmp
 tmp
+.idea
